@@ -1,0 +1,8 @@
+[Cc]ache/
+[Oo]bj/
+[Bb]in/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+packages/
