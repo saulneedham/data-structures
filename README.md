@@ -1,6 +1,6 @@
 # Data-Structures
 
-A collection of C# projects completed for the 6G5Z0024 unit, focusing on data structures, algorithmic complexity, and optimization. The repository demonstrates a progression from custom data structure implementation to complex algorithm design.
+A collection of C# project, focusing on data structures, algorithmic complexity, and optimisation. The repository demonstrates a progression from custom data structure implementation to complex algorithm design.
 
 ## 📘 Included Projects
 1: Queues - 
